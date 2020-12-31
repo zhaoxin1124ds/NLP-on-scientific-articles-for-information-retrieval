@@ -1,3 +1,4 @@
+![Picture2](https://user-images.githubusercontent.com/45460506/103392391-42949f00-4ae3-11eb-959f-edc4c7fdd742.png)
 # NLP-on-scientific-articles-for-information-retrieval
 This experiment will work on language modeling to provide a way of giving a token of identification to research articles which facilitates recommendation and search process.
 
