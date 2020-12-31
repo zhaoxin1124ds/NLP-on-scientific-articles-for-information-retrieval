@@ -3,8 +3,8 @@ This experiment will work on language modeling to provide a way of giving a toke
 
 Key work on this experiment is **word embedding**. I will test several wording embedding methods such as TF-IDF and word2vec. And then, I will evaluate the classification modeling performance on vectors from different word embedding. The best word embedding should be able to reasonably separate the articles and give out the best classification prediction. I will use the best word embedding method to realize information retrieval and produce a web APP for [Scientific-articles-search](https://scientific-articles-search.anvil.app/).
 
-## [Presentation](https://github.com/zhaoxin1124ds/Shill-bidding-detection-/blob/main/Shill_bider_clustering.pdf)
-https://github.com/zhaoxin1124ds/Shill-bidding-detection-/blob/main/Shill_bider_clustering.pdf
+## [Presentation](https://github.com/zhaoxin1124ds/NLP-on-scientific-articles-for-information-retrieval/blob/main/NLP_information_retrieval.pdf)
+https://github.com/zhaoxin1124ds/NLP-on-scientific-articles-for-information-retrieval/blob/main/NLP_information_retrieval.pdf
 
 ## Data
 The data is from [Kaggle](https://www.kaggle.com/vetrirah/janatahack-independence-day-2020-ml-hackathon) and contains abstract and title for a set of scientific papers. All the papers have been labeled according to 6 topics: computer science, physics, mathematics, statistics, quantitative biology, and quantitative finance.
